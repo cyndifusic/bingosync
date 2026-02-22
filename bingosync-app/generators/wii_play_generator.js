@@ -14,13 +14,13 @@ var bingoList = [
         "name": "Shooting Range: Save a total of 10 Miis (points must add to the counter)"
     },
     {
-        "name": "Find Mii: Silver (40 levels)"
+        "name": "Find Mii: Bronze (20 levels)"
     },
     {
-        "name": "Find Mii: Bronze while completing levels 1-20 with 1 second remaining (20 levels)"
+        "name": "Find Mii: Beat level 10"
     },
     {
-        "name": "Find Mii: Complete 2 'find your favourite' levels (not counting 'pick a favourite')"
+        "name": "Find Mii: Reach 120s on the in-game timer"
     },
     {
         "name": "Table Tennis: Silver specifically (70-99)"
